@@ -75,12 +75,6 @@ export default function App() {
           </div>
         </div>
       ) : null}
-
-      {/* <img
-        className="waiting"
-        src="./cake.svg"
-        alt="woman is waiting near calendar"
-      /> */}
     </section>
   );
 }
