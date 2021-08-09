@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/birthday-countdown/static/css/main.c6bad0ea.chunk.css",
+    "main.js": "/birthday-countdown/static/js/main.eef6e18c.chunk.js",
+    "main.js.map": "/birthday-countdown/static/js/main.eef6e18c.chunk.js.map",
+    "runtime-main.js": "/birthday-countdown/static/js/runtime-main.18b0cc43.js",
+    "runtime-main.js.map": "/birthday-countdown/static/js/runtime-main.18b0cc43.js.map",
+    "static/js/2.f9be2dc1.chunk.js": "/birthday-countdown/static/js/2.f9be2dc1.chunk.js",
+    "static/js/2.f9be2dc1.chunk.js.map": "/birthday-countdown/static/js/2.f9be2dc1.chunk.js.map",
+    "static/js/3.70b3fb86.chunk.js": "/birthday-countdown/static/js/3.70b3fb86.chunk.js",
+    "static/js/3.70b3fb86.chunk.js.map": "/birthday-countdown/static/js/3.70b3fb86.chunk.js.map",
+    "index.html": "/birthday-countdown/index.html",
+    "static/css/main.c6bad0ea.chunk.css.map": "/birthday-countdown/static/css/main.c6bad0ea.chunk.css.map",
+    "static/js/2.f9be2dc1.chunk.js.LICENSE.txt": "/birthday-countdown/static/js/2.f9be2dc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18b0cc43.js",
+    "static/js/2.f9be2dc1.chunk.js",
+    "static/css/main.c6bad0ea.chunk.css",
+    "static/js/main.eef6e18c.chunk.js"
+  ]
+}
